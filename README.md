@@ -320,6 +320,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
 - **[Browser MCP](https://github.com/browsermcp/mcp)** - Automate your local browser
 - **[Browser MCP](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser)** (by UI-TARS) - A fast, lightweight MCP server that empowers LLMs with browser automation via Puppeteer’s structured accessibility data, featuring optional vision mode for complex visual understanding and flexible, cross-platform configuration.
+- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Southeast Asia e-commerce product search and price comparison MCP. Hosted HTTP endpoint [https://api.buywhere.ai/mcp](https://api.buywhere.ai/mcp) (no API key). Docs: [https://docs.buywhere.ai](https://docs.buywhere.ai). Install: `npx -y @buywhere/mcp-server`.
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
 - **[Calculator](https://github.com/githejie/mcp-server-calculator)** - This server enables LLMs to use calculator for precise numerical calculations.
 - **[CalDAV MCP](https://github.com/dominik1001/caldav-mcp)** - A CalDAV MCP server to expose calendar operations as tools for AI assistants.
